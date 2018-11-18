@@ -1,0 +1,14 @@
+.chart {
+    display: block;
+    color: green;
+    background-color: white;
+
+    &:hover {
+        border: 2px solid pink;
+    }
+
+    .legend {
+        font-size: 18pt;
+        border: 1px solid blue;
+    }
+}

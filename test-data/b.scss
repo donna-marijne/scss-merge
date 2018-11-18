@@ -1,0 +1,14 @@
+@import './b.variables.scss';
+
+.chart {
+    font-size: $chart__font-size;
+    color: $chart__color;
+    background-color: $chart__background-color;
+
+    .legend {
+        font-size: $chart-legend__font-size;
+        border: $chart-legend__border;
+        color: $chart-legend__color;
+        background-color: $chart-legend__background-color;
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "scss-merge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.10.0",
+    "query-ast": "^1.0.1",
+    "scss-parser": "^1.0.0",
+    "source-map": "^0.7.3"
+  }
+}
